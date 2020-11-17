@@ -1,0 +1,6 @@
+1. nodejs
+2. expressjs
+3. npm nodemon
+4. npm morgan
+5. npm node-sass
+6. express handlebars
