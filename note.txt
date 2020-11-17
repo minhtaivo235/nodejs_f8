@@ -4,3 +4,6 @@
 4. npm morgan
 5. npm node-sass
 6. express handlebars
+7. prettier
+8. husky
+9. lint-staged
